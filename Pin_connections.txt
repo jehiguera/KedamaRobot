@@ -1,0 +1,7 @@
+#define ECHO    (1U<<6)	// PB6(INPUT)
+#define TRIGGER (1U<<4) // PA4 (OUTPUT)
+#define BLUE_LED 1U<<2) //PF2 onboard Blue LED
+#define IR_PIN  (1U<<5) //PA5 (INPUT)
+#define SERVO   (1U<<3)	// PF3 (OUTPUT)
+#define MOTOR1  (1U<<2)	// PE2 (OUTPUT)
+#define MOTOR2  (1U<<3)	// PE3 (OUTPUT)

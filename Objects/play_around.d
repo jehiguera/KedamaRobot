@@ -1,0 +1,15 @@
+.\objects\play_around.o: play_around.c
+.\objects\play_around.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h
+.\objects\play_around.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h
+.\objects\play_around.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\play_around.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\play_around.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\play_around.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\play_around.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\play_around.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h
+.\objects\play_around.o: delay.h
+.\objects\play_around.o: play_around.h
+.\objects\play_around.o: limbs.h
+.\objects\play_around.o: head.h
+.\objects\play_around.o: light.h
+.\objects\play_around.o: neck.h

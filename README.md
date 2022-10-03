@@ -8,5 +8,7 @@ In this project, I have implemented a digital twin of my cat Kedama. The autonom
 The document [Autonomous Mobile robot Kedama.pdf] explains a detailed introduction of the architecture, requirements and firmware modules implemented using the IDE Keil MDK-ARM Plus version 5.
 The microcontroller development board used for this project is TM4C123 Tiva C Series LaunchPad. 
 
+https://github.com/jehiguera/KedamaRobot/blob/main/Autonomous%20Mobile%20Robot%20Kedama.pdf
+
 
 

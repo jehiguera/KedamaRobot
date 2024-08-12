@@ -1,6 +1,7 @@
 /**@file head.c
 * @author J.Higuera
-* @date 25/03/2021
+*	@email: jhiguera@ieee.org
+*	@date: 12/08/2024
 * @brief This file contains functions to initialize Timer0 in Edge-capture\n
 * mode in order to be able detect the precise time when the echo signals is detected
 */

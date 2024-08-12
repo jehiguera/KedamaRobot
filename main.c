@@ -1,6 +1,7 @@
 /**@file: main.c
 *	@author: Jorge Higuera
-*	@date: 07/04/2021
+*	@email: jhiguera@ieee.org
+*	@date: 12/08/2024
 *	@brief: this file contaians functions to work with Kedama robot 
 */
 

@@ -1,6 +1,6 @@
-/**@file hdelay.c
-* @author J.Higuera
-* @date 25/03/2021
+/**@file ddelay.c
+*	@email: jhiguera@ieee.org
+*	@date: 12/08/2024
 * @brief This file contains functions for delays with timer1 and timer2 initialization
 */
 

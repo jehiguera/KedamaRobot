@@ -1,6 +1,7 @@
 /**@file neck.c
 * @author J.Higuera
-* @date 30/03/2021
+*	@email: jhiguera@ieee.org
+*	@date: 12/08/2024
 * @brief This file implements functions which initialize PWM control\n
 *  for the servo motor.
 */

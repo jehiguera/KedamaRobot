@@ -1,3 +1,9 @@
+/**@file: play_around.c
+*	@author: Jorge Higuera
+*	@email: jhiguera@ieee.org
+*	@date: 12/08/2024
+*	@brief: this file contains plaining functions to work with Kedama robot 
+*/
 #include "TM4C123GH6PM.h" 
 #include <stdint.h>
 #include  "delay.h"

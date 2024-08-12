@@ -1,6 +1,7 @@
 /**@file limbs.c
 *  @author J. Higuera
-*  @date  31/03/2021
+*	@email: jhiguera@ieee.org
+*	@date: 12/08/2024
 *  @brief This file contains functions that intialize and controls the DC motors and  
 */
 #include <stdint.h>
